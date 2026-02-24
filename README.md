@@ -8,7 +8,7 @@ Get real-time weather updates for any city worldwide using the OpenWeatherMap AP
 ## 📱 Live Demo
 
 🔗 View Live Demo: [Weather_App](https://reactjs-weather-app-eight.vercel.app/)
-*(Replace with your actual deployed URL)*
+
 
 ---
 
