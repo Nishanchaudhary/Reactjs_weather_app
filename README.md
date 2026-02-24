@@ -37,10 +37,6 @@ Get real-time weather updates for any city worldwide using the OpenWeatherMap AP
 - Vite
 
 ---
-
-
----
-
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
